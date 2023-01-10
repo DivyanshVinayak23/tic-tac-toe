@@ -5,3 +5,4 @@ Did this while learning Document Model Object
 Single Click for "X"
 Double Click for "O"
 
+![My Image](Thumbnail.PNG)
